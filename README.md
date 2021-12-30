@@ -24,9 +24,6 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
-  
-<br>
 
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
