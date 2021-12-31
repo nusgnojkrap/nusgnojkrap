@@ -1,10 +1,4 @@
-<style>
-  .div-background {
-    background: red;
-  }
-</style>
-
-<div class="div-background">
+<div class="bg-blue">
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jongsunPark&fontSize=70&animation=twinkling"></p>
 
