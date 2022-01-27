@@ -52,7 +52,13 @@
   
 <!-- 여기까지가 내 커리어  -->
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusgnojkrap&show_icons=true&theme=synthwave)
+ 
+</div>
+
+
 <p align="center">
   <a href="https://www.instagram.com/nusgnojkrap/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:ahrl1994@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
