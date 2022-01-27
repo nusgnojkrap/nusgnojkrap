@@ -29,10 +29,17 @@
 
 <!-- career start -->
  
-:wave: Hello My name is Jongsun Park, FULL Stack Developer and Machine Learning Engineer working at ![alt](https://img.shields.io/badge/-Telecommunication_Company_International_Data_Corporation-0071C5?style=plastic&logoColor=white)
-
 <br>
  
+### :purple_heart: Career
+
+| **Type** | **Date** | **Contents** | **Org.** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Education** | 2014. 3 ~ 2021.2 | Department of Computer Engineering | **Ajou University** |
+| **:office:Employment** | 2021. 6 ~ | Backend Developer | **Sejong Telecom** |
+
+<br>
+
 ### :bulb: Current Interests
 - REST API
 - React, Nodejs, Vue, TypeScript 
@@ -42,13 +49,6 @@
 - SIP Stack
 
 <br>
- 
-### :purple_heart: Career
-
-| **Type** | **Date** | **Contents** | **Org.** |
-|:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2014. 3 ~ 2021.2 | Department of Computer Engineering | **Ajou University** |
-| **:office:Employment** | 2021. 6 ~ | Backend Developer | **Sejong Telecom** |
   
 <!-- 여기까지가 내 커리어  -->
 
