@@ -47,6 +47,9 @@
 - A new application using an existing model or task
 - Asterisk and FreePBX 
 - SIP Stack
+- Machine Learning
+- Digital Signal Processing
+- linear algebra, calculus, Discrete mathematics
 
 <br>
   
