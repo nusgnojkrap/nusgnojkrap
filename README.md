@@ -65,8 +65,8 @@
 <p align="center">
   <a href="https://www.instagram.com/nusgnojkrap/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:ahrl1994@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://dsp.stackexchange.com/users/61009/jongsun-park"><img src="https://img.shields.io/badge/Stackexchange-d14836?style=flat-square&logo=Stackexchange&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/17911712/jongsun-park"><img src="https://img.shields.io/badge/Stackoverflow-d14836?style=flat-square&logo=Stackoverflow&logoColor=white"/></a>
+  <a href="https://dsp.stackexchange.com/users/61009/jongsun-park"><img src="https://img.shields.io/badge/Stackexchange-469acf?style=flat-square&logo=Stackexchange&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/17911712/jongsun-park"><img src="https://img.shields.io/badge/Stackoverflow-e87922?style=flat-square&logo=Stackoverflow&logoColor=white"/></a>
 </p>
 <br>
 
