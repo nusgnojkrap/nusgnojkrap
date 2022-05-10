@@ -41,9 +41,8 @@
 <br>
 
 ### :bulb: Current Interests
-- REST API
-- React, Nodejs, Vue, TypeScript 
-- Computer Vision
+- Nodejs
+- RTP Protocol
 - A new application using an existing model or task
 - Asterisk and FreePBX 
 - SIP Stack
