@@ -35,8 +35,9 @@
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2014. 3 ~ 2021.2 | Department of Computer Engineering | **Ajou University** |
-| **:office:Employment** | 2021. 6 ~ | Backend Developer | **Sejong Telecom** |
+| **Education** | 2014.03 ~ 2021.02 | Department of Computer Engineering | **Ajou University** |
+| **:office:Employment** | 2021.06 ~ 2023.12| Backend Developer | **Sejong Telecom** |
+| **:office:Employment** | 2024.01 ~ | Backend, Avaya Developer | **ECS Telecom** |
 
 <br>
 
